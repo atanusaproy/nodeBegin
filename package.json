@@ -4,7 +4,8 @@
   "description": "my practice begin on node",
   "main": "app.js",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "start": "nodemon app.js"
   },
   "author": "Atanu Roy",
   "license": "ISC",
