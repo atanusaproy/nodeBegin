@@ -1,4 +1,11 @@
 1. npm init
 2. make folder structure
 3. npm i nodemon
-4. 
+4. change in package.json file
+
+                "scripts": {
+                "test": "start",
+                "start": "nodemon app.js"
+                },
+
+5.  npm start                
