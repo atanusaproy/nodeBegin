@@ -1,0 +1,14 @@
+{
+  "name": "atanu",
+  "version": "1.0.0",
+  "description": "my practice begin on node",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Atanu Roy",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
